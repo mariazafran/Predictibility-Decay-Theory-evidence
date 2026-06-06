@@ -43,6 +43,7 @@ If you use this work, please cite:
 
 Bibi, M. (2026). *Predictibility Decay Analysis*. GitHub repository.  
 Available at: https://github.com/your-username/your-repo-name/blob/main/Predictibility_Decay_Analysis.ipynb
+https://colab.research.google.com/drive/1Xs-PDodcbZHMT6tqImUd7ZGO5djUDe89?usp=sharing
 
 
 ---
