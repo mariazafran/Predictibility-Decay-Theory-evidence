@@ -1,2 +1,62 @@
-# Predictibility-Decay-Theory-evidence
-Predictibility Decay theory along with predictibility decay life cycle 
+# Predictability Decay Analysis (Colab Notebook)
+
+## Overview
+This project explores whether financial market predictability is stable or short-lived.  
+Using FTSE 100 data (2005–2024), the analysis shows that predictability follows a **lifecycle** — it emerges, reaches a peak, and then rapidly declines.
+
+---
+
+## What this notebook does
+- Downloads FTSE 100 market data  
+- Builds a rolling regression model using lagged returns  
+- Measures predictability using out-of-sample R²  
+- Tracks how predictability changes over time  
+
+---
+
+## Key Results
+- Predictability exists but is **inconsistent** (peak ≈ 0.29)  
+- Predictability **declines sharply** after reaching its peak  
+- Half-life ≈ **5 periods** → very short-lived  
+- Faster decay observed during **high-volatility periods**  
+
+---
+
+##  Core Insight
+> Predictability is **temporary and self-destructive** — once patterns are detected, markets adapt and eliminate them.
+
+---
+
+## How to Run
+1. Open the notebook in Google Colab  
+2. Run all cells step by step  
+3. Outputs include:
+   - Predictability (R²) over time  
+   - Smoothed trend visualization  
+   - Decay and half-life metrics  
+
+---
+
+## Citation
+If you use this work, please cite:
+
+Bibi, M. (2026). *The Rise and Fall of Predictability: Evidence on the Short Life Cycle of Return Forecasting.*  
+
+
+---
+
+## Disclaimer
+This work is for academic and research purposes only.  
+It does not constitute financial or investment advice.
+
+---
+
+## © License
+© 2026 Maria Bibi. All Rights Reserved.
+
+This repository contains original research and intellectual contributions.  
+Unauthorized use, reproduction, or distribution is prohibited.
+
+Any use of this work must include proper citation.
+
+For permissions: mariazafran1996@gmail.com
