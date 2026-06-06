@@ -37,14 +37,24 @@ Using FTSE 100 data (2005–2024), the analysis shows that predictability follow
 
 ---
 
+
 ## Citation
 
 If you use this work, please cite:
 
 Bibi, M. (2026). *Predictibility Decay Analysis*. GitHub repository.  
-Available at: https://github.com/your-username/your-repo-name/blob/main/Predictibility_Decay_Analysis.ipynb
-https://colab.research.google.com/drive/1Xs-PDodcbZHMT6tqImUd7ZGO5djUDe89?usp=sharing
+Available at: https://github.com/mariazafran/Predictibility-Decay-Theory-evidence  
 
+## Code and Resources
+
+The complete codebase is available at:  
+https://github.com/mariazafran/Predictibility-Decay-Theory-evidence  
+
+The specific notebook used in this analysis:  
+https://github.com/mariazafran/Predictibility-Decay-Theory-evidence/blob/main/Predictibility_Decay_Analysis.ipynb  
+
+Google Colab version:  
+https://colab.research.google.com/drive/1Xs-PDodcbZHMT6tqImUd7ZGO5djUDe89?usp=sharing
 
 ---
 
