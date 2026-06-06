@@ -38,9 +38,11 @@ Using FTSE 100 data (2005–2024), the analysis shows that predictability follow
 ---
 
 ## Citation
+
 If you use this work, please cite:
 
-Bibi, M. (2026). *The Rise and Fall of Predictability: Evidence on the Short Life Cycle of Return Forecasting.*  
+Bibi, M. (2026). *Predictibility Decay Analysis*. GitHub repository.  
+Available at: https://github.com/your-username/your-repo-name/blob/main/Predictibility_Decay_Analysis.ipynb
 
 
 ---
